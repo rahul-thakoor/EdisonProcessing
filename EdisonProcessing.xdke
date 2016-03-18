@@ -1,0 +1,132 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "EdisonProcessing.xdk": {
+        "previousModTime": 1458293438000,
+        "modified": 1458293438000,
+        "seen": true,
+        "name": "EdisonProcessing.xdk"
+      },
+      "EdisonProcessing.xdke": {
+        "previousModTime": 1458313037000,
+        "modified": 1458313037000,
+        "seen": true,
+        "name": "EdisonProcessing.xdke"
+      },
+      "README.md": {
+        "previousModTime": 1458293438000,
+        "modified": 1458293438000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "icon.png": {
+        "previousModTime": 1458293438000,
+        "modified": 1458293438000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1458313265000,
+        "modified": 1458313265000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1458293438000,
+        "modified": 1458293438000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1458293438000,
+        "modified": 1458293438000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "client/index.css": {
+        "previousModTime": 1458294587000,
+        "modified": 1458294587000,
+        "seen": true,
+        "name": "client/index.css"
+      },
+      "client/index.html": {
+        "previousModTime": 1458306481000,
+        "modified": 1458306481000,
+        "seen": true,
+        "name": "client/index.html"
+      },
+      "client/index.js": {
+        "previousModTime": 1458294529000,
+        "modified": 1458294529000,
+        "seen": true,
+        "name": "client/index.js"
+      },
+      "client/p5.min.js": {
+        "previousModTime": 1457132987000,
+        "modified": 1457132987000,
+        "seen": true,
+        "name": "client/p5.min.js"
+      },
+      "client/sketch.js": {
+        "previousModTime": 1458308695000,
+        "modified": 1458308695000,
+        "seen": true,
+        "name": "client/sketch.js"
+      },
+      "client/socket.io-1.4.5.js": {
+        "previousModTime": 1458306573000,
+        "modified": 1458306573000,
+        "seen": true,
+        "name": "client/socket.io-1.4.5.js"
+      },
+      "index.css": {
+        "previousModTime": 1458294587000,
+        "modified": 1458294587000,
+        "seen": true,
+        "name": "index.css"
+      },
+      "index.html": {
+        "previousModTime": 1458310474000,
+        "modified": 1458310474000,
+        "seen": true,
+        "name": "index.html"
+      },
+      "p5.min.js": {
+        "previousModTime": 1457132987000,
+        "modified": 1457132987000,
+        "seen": true,
+        "name": "p5.min.js"
+      },
+      "sketch.js": {
+        "previousModTime": 1458310142000,
+        "modified": 1458310142000,
+        "seen": true,
+        "name": "sketch.js"
+      },
+      "socket.io-1.4.5.js": {
+        "previousModTime": 1458306573000,
+        "modified": 1458306573000,
+        "seen": true,
+        "name": "socket.io-1.4.5.js"
+      },
+      "client.js": {
+        "previousModTime": 1458313035000,
+        "modified": 1458313035000,
+        "seen": true,
+        "name": "client.js"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1458313268473
+      }
+    }
+  }
+}
